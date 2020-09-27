@@ -25,7 +25,7 @@ SECRET_KEY = '*smdnk2(qvkbl*n**885mlvmd9la6jz)-c=eghg3v3vr3u^l(9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','sampledomain.com']
+ALLOWED_HOSTS = ['127.0.0.1','fitnessera.herokuapp.com']
 
 
 # Application definition
